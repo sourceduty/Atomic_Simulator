@@ -1,4 +1,4 @@
-![Atomic Simulator](https://github.com/user-attachments/assets/556249de-5585-4798-b9d2-078e237156e2)
+![Atomic Simulator](https://github.com/user-attachments/assets/88264da7-da5e-480b-8471-40a92435839b)
 
 > Assistive atomic and subatomic science simulator.
 
