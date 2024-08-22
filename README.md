@@ -18,6 +18,8 @@ Moreover, Atomic Simulator extends its utility to advanced applications like Mon
 [Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
 <br>
 [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
+<br>
+[Physics Experiment](https://github.com/sourceduty/Physics_Experiments)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
