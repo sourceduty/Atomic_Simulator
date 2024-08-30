@@ -11,6 +11,10 @@ In addition to conceptual explanations, Atomic Simulator supports the developmen
 Moreover, Atomic Simulator extends its utility to advanced applications like Monte Carlo simulations for modeling stochastic aspects of nuclear reactions and integrating these simulations with existing software frameworks such as MCNP, Geant4, or OpenMC. It can also leverage machine learning libraries like TensorFlow and scikit-learn to develop predictive models and optimize experimental designs. Through educational resources, code snippets, tutorials, and interactive demonstrations, the simulator aims to enhance learning and foster a deeper comprehension of atomic science and nuclear physics principles.
 
 #
+
+![James Bond](https://github.com/user-attachments/assets/b3adce4e-a79e-42dc-a3f4-64bafa1981c0)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
@@ -22,6 +26,8 @@ Moreover, Atomic Simulator extends its utility to advanced applications like Mon
 [Physics Experiment](https://github.com/sourceduty/Physics_Experiments)
 <br>
 [Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
+<br>
+[Nuclear Chemistry Simulator](https://github.com/sourceduty/Nuclear_Chemistry_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
